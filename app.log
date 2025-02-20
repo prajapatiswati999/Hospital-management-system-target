@@ -1,0 +1,17 @@
+2025-02-20 01:05:18,695 - ERROR - Configuration file not found: Configuration file 'config/settings.cfg' not found.
+Traceback (most recent call last):
+  File "c:\Users\swati_prajapati\Documents\sasva main2\hospital-management-system_Target\app.py", line 37, in <module>
+    raise FileNotFoundError(f"Configuration file '{CONFIG_PATH}' not found.")
+FileNotFoundError: Configuration file 'config/settings.cfg' not found.
+2025-02-20 01:05:28,593 - NOTICE - Configuration loaded successfully from config/settings.staging.cfg.
+2025-02-20 01:05:29,525 - NOTICE - Configuration loaded successfully from config/settings.staging.cfg.
+2025-02-20 01:41:37,179 - NOTICE - Flask application started successfully.
+2025-02-20 01:41:37,456 - NOTICE - Flask application started successfully.
+2025-02-20 01:41:51,013 - NOTICE - Configuration loaded successfully from config/settings.staging.cfg.
+2025-02-20 01:41:51,910 - NOTICE - Configuration loaded successfully from config/settings.staging.cfg.
+2025-02-20 01:41:56,967 - NOTICE - Flask application started successfully.
+2025-02-20 01:41:57,250 - NOTICE - Flask application started successfully.
+2025-02-20 01:42:04,746 - NOTICE - Configuration loaded successfully from config/settings.staging.cfg.
+2025-02-20 01:42:05,627 - NOTICE - Configuration loaded successfully from config/settings.staging.cfg.
+2025-02-20 15:50:41,874 - NOTICE - Configuration loaded successfully from config/settings.staging.cfg.
+2025-02-20 15:50:44,722 - NOTICE - Configuration loaded successfully from config/settings.staging.cfg.
